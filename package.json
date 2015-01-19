@@ -4,7 +4,7 @@
 	"description": "Chai assertions adapter for Bender.js",
 	"main": "lib/index.js",
 	"dependencies": {
-		"chai": "^1.9.1"
+		"chai": "~1.10.0"
 	},
 	"scripts": {
 		"lint": "jscs . && jshint lib/",
@@ -27,7 +27,7 @@
 	},
 	"homepage": "https://github.com/benderjs/benderjs-chai",
 	"devDependencies": {
-		"jscs": "^1.6.1",
-		"jshint": "^2.5.5"
+		"jscs": "~1.6.1",
+		"jshint": "~2.5.5"
 	}
 }
